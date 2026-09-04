@@ -32,7 +32,7 @@ Grab the latest build from the [**Releases**](../../releases) page:
 
 > **macOS:** the DMGs are signed & notarized. On first launch, approve the camera extension in System Settings ▸ General ▸ Login Items & Extensions.
 >
-> **Windows:** the installers are unsigned, so SmartScreen may warn on first run — choose **More info ▸ Run anyway**.
+> **Windows:** the installers are code-signed (Azure Trusted Signing). If SmartScreen still warns while the certificate builds reputation, choose **More info ▸ Run anyway**.
 
 ## Troubleshooting
 
